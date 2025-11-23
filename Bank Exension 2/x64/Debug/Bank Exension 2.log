@@ -1,0 +1,4 @@
+﻿  Bank Exension 2.cpp
+C:\Users\lmrin\Desktop\Courses 8\Bank Exension 2\Bank Exension 2.cpp(90,26): warning C4267: '=' : conversion de 'size_t' en 'short', perte possible de données
+C:\Users\lmrin\Desktop\Courses 8\Bank Exension 2\Bank Exension 2.cpp(133,31): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+  Bank Exension 2.vcxproj -> C:\Users\lmrin\Desktop\Courses 8\Bank Exension 2\x64\Debug\Bank Exension 2.exe

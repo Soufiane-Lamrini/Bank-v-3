@@ -1,0 +1,4 @@
+﻿  Bank Exension 2.cpp
+C:\Users\lmrin\Desktop\Courses 8\Bank Exension 2\Bank Exension 2.cpp(64,26): warning C4267: '=' : conversion de 'size_t' en 'short', perte possible de données
+C:\Users\lmrin\Desktop\Courses 8\Bank Exension 2\Bank Exension 2.cpp(161,5): error C3861: 'ShowManageUserScreen' : identificateur introuvable
+C:\Users\lmrin\Desktop\Courses 8\Bank Exension 2\Bank Exension 2.cpp(710,13): warning C4129: « A » : séquence d’échappement de caractères non reconnue
